@@ -1,2 +1,2 @@
 # Databases
-* [consetps](databases-concepts/README.md)
+* [concetps](databases-concepts/README.md)
